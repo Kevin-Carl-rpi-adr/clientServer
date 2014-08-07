@@ -5,7 +5,7 @@ s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
  
 print ('Socket Created')
  
-host = "192.168.1.14"
+host = "192.168.1.15"
 port = 1001
 
 print ('Ip address ' + host)
